@@ -1,10 +1,32 @@
 .an{
   background-color: red;
   text-align: center;
+  color: white;
 }
 
-#id{
+h1 {
+  font-size: 500%;
+  text-shadow: 5px 5px #ff8080;
+}
 
+#op {
+  text-align: center;
+  color: white;
+  font-size: 400%;
+}
+
+nav ul{
+list-style-type: none;
+font-size: 200%;
+margin: 30px;
+padding: 0;
+overflow: hidden;
+background-color: red;
+}
+
+
+nav ul li a{
+  text-decoration: none;
 }
 
 body {
